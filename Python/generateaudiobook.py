@@ -1,6 +1,4 @@
-#https://www.youtube.com/watch?v=UmPe07a3bWs
-#https://www.youtube.com/watch?v=BFl6V4sIcWQ
-#https://www.youtube.com/watch?v=5z1Irm6d_BE
+
 from tkinter import Tk
 from tkinter.filedialog import askopenfilename
 import PyPDF2
